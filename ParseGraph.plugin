@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Plugin>
+  <Information>
+    <Name>ParseGraph</Name>
+    <Author>Arebel</Author>
+   <Version>1.9.7</Version>
+    <Description>Tracks dummy parse results and shows parse history, averages, and a line graph with an all-time average line..</Description>
+  </Information>
+  <Package>Arebel.ParseGraph</Package>
+  <Configuration Apartment="ParseGraph" />
+</Plugin>
